@@ -16,8 +16,8 @@ Phase 2
 - At least 5GB of SSD disk storage
 - At least 2GB of memory (RAM)
 - At least 156 Kbps for Download/56 Kbps for Upload network bandwidth
-note:
-I don't know, but I tried running on 4 CPUs and 8 RAM can run
+- note:
+- I don't know, but I tried running on 4 CPUs and 8 RAM can run
 
 
 # Update Package
