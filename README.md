@@ -1,10 +1,6 @@
 # Celestia-The-Blockspace-Race-Phase-2-ITN-light-Node
 Phase 2
 
-<p style="font-size:14px" align="left">
-<a href="https://t.me/airdropsultanindonesia" target="_blank">Join to Channel Airdrop Sultan Indonesia</a>
-</p>
-
 ![Bundlr](https://user-images.githubusercontent.com/65535542/228904748-bbfc4fd8-7c12-4d37-9e03-022d516f4a4e.jpeg)
 
 
