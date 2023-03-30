@@ -1,8 +1,6 @@
 # Celestia-The-Blockspace-Race-Phase-2-ITN-light-Node
 Phase 2
 
-# Guide Deploy Light Node (Celesita ITN The Blockspace Race)  
-
 <p style="font-size:14px" align="left">
 <a href="https://t.me/airdropsultanindonesia" target="_blank">Join to Channel Airdrop Sultan Indonesia</a>
 </p>
