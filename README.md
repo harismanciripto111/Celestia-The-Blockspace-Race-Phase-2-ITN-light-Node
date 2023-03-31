@@ -1,7 +1,7 @@
 # Celestia-The-Blockspace-Race-Phase-2-ITN-light-Node
 Phase 2
 
-![Bundlr](https://user-images.githubusercontent.com/65535542/228904748-bbfc4fd8-7c12-4d37-9e03-022d516f4a4e.jpeg)
+![Bundlr](https://github.com/harismanciripto111/Celestia-The-Blockspace-Race-Phase-2-ITN-light-Node/blob/main/phase%202%20staging.jpeg)
 
 
 # Official Links
