@@ -34,7 +34,13 @@ sudo mv go /usr/local
 export GOROOT=/usr/local/go 
 export GOPATH=$HOME/Projects/Proj1 
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH 
-go version 
+```
+
+
+# Check Go Version
+
+```bash
+go version go1.19.4 linux/amd64
 ```
 
 # Set Bash Profile
@@ -46,11 +52,6 @@ source $HOME/.bash_profile
 
 ```
 
-# Check Go Version
-
-```bash
-go version go1.19.4 linux/amd64
-```
 
 # Install Celestia Blockspace Race
 
@@ -118,7 +119,7 @@ journalctl -u celestia-lightd.service -f
 ```
 
 
-# Ambil Node ID buat di submit di task
+# Take the Node ID to submit it in the task
 
 ```bash
 curl -X POST \
@@ -142,7 +143,7 @@ nano /etc/systemd/system/celestia-lightd.service
 --metrics.tls=false --metrics --metrics.endpoint otel.celestia.tools:4318
 ```
 
-Pastekan Command Di atas di samping blockspacerace, lihat gambar di bawah
+Paste Command Above next to blockspacerace, see image below
 
 ![Bundlr](https://user-images.githubusercontent.com/65535542/228909380-f6303c5e-5319-4aa7-9f78-730807584c49.png)
 
