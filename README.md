@@ -40,7 +40,7 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 # Check Go Version
 
 ```bash
-go version go1.19.4 linux/amd64
+go version
 ```
 
 # Set Bash Profile
