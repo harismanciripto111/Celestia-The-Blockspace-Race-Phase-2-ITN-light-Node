@@ -8,8 +8,6 @@ Phase 2
 ### [Official Document](https://docs.celestia.org/nodes/blockspace-race/#phase-2-staging)
 ### [Celestia Official Discord](https://discord.gg/celestiacommunity)
 
-# Explorer
-### [Explorer](https://tiascan.com/light-nodes)
 
 ## Minimum Requirements 
 - I don't know, but I tried running on 4 CPUs and 8 RAM can run
@@ -128,6 +126,9 @@ curl -X POST \
      -d '{"jsonrpc":"2.0","id":0,"method":"p2p.Info","params":[]}' \
      http://localhost:26658
 ```
+# Explorer
+### [Explorer](https://tiascan.com/light-nodes)
+
 
 # Input Metric Flags on Node
 
