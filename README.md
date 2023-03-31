@@ -26,12 +26,17 @@ sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential gi
 # Install Golang
 
 ```bash
-ver="1.19.1" 
-cd $HOME 
-wget "https://golang.org/dl/go$ver.darwin-amd64.tar.gz" 
-sudo rm -rf /usr/local/go 
-sudo tar -C /usr/local -xzf "go$ver.darwin-amd64.tar.gz" 
-rm "go$ver.darwin-amd64.tar.gz"
+You can find the version of Golang that suits you both for Linux and macOS
+https://golang.org/dl/
+
+here i use golang 19.1
+wget https://go.dev/dl/go1.19.1.linux-amd64.tar.gz
+sudo tar -xvf go1.19.1.linux-amd64.tar.gz
+sudo mv go /usr/local  
+export GOROOT=/usr/local/go 
+export GOPATH=$HOME/Projects/Proj1 
+export PATH=$GOPATH/bin:$GOROOT/bin:$PATH 
+go version 
 ```
 
 # Set Bash Profile
