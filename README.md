@@ -145,7 +145,7 @@ nano /etc/systemd/system/celestia-lightd.service
 
 Paste Command Above next to blockspacerace, see image below
 
-![Bundlr](https://user-images.githubusercontent.com/65535542/228909380-f6303c5e-5319-4aa7-9f78-730807584c49.png)
+![Bundlr](https://github.com/harismanciripto111/Celestia-The-Blockspace-Race-Phase-2-ITN-light-Node/blob/main/Metriks%20redflage.jpg)
 
 ## Reload and Restart Your Node
 
